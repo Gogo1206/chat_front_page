@@ -90,7 +90,7 @@ class _chatScreenState extends State<chatScreen> {
                   Expanded(
                     child: Container(
                       child: Text(
-                        'HI',
+                        'Direct Message',
                         textAlign: TextAlign.center,
                       ),
                     ),
@@ -103,7 +103,7 @@ class _chatScreenState extends State<chatScreen> {
                     child: Container(
                       decoration: BoxDecoration(),
                       child: Text(
-                        'HI',
+                        'Group Message',
                         textAlign: TextAlign.center,
                       ),
                     ),
