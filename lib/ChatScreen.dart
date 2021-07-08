@@ -100,7 +100,6 @@ class _chatScreenState extends State<chatScreen> {
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             color: Colors.black54,
-                            fontWeight: FontWeight.w400,
                           ),
                         ),
                       ),
@@ -117,7 +116,6 @@ class _chatScreenState extends State<chatScreen> {
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             color: Colors.black54,
-                            fontWeight: FontWeight.w400,
                           ),
                         ),
                       ),

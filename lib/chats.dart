@@ -53,7 +53,6 @@ class chats extends StatelessWidget {
                           chat.sender.name,
                           style: TextStyle(
                             color: Colors.black54,
-                            fontWeight: FontWeight.w500,
                           ),
                         ),
                         Container(
@@ -61,7 +60,7 @@ class chats extends StatelessWidget {
                           child: Text(
                             chat.text,
                             style: TextStyle(
-                              color: Colors.black54,
+                              color: Colors.black45,
                             ),
                             overflow: TextOverflow.ellipsis,
                           ),
